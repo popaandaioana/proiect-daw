@@ -1,5 +1,5 @@
-<?php
-echo '<html>
+
+<html>
 <head>
 <title>Libraria online</title>
 </head>
@@ -20,43 +20,40 @@ Guest<br>
 <li>Cauta carte in librarie</li>
 <li>Vizualizare sugestii (promotii, noutati)</li>
 <li>Creare cont nou</li>
-<li>Vizualizare recenzii produs</li>
 <li>Filtrare dupa categorie (prin selectare domeniu)</li>
 <li>Adaugare/stergere produs in cos</li>
 <li>Vizualizare cos</li>
 <li>Cumparare produs</li>
-<li>Vizualizare recenzii produs</li>
 </ul>
 User<br>
 <ul>
 <li>Cauta carte in librarie</li>
 <li>Vizualizare sugestii (promotii, noutati)</li>
-<li>Vizualizare recenzii produs</li>
-<li>Adaugare recenzie produs</li>
 <li>Filtrare dupa categorie (prin selectare domeniu)</li>
 <li>Adaugare/stergere produs in cos</li>
 <li>Vizualizare cos</li>
 <li>Cumparare produs</li>
-<li>Vizualizare recenzii produs</li>
-<li>Adaugare recenzie produs</li>
 <li>Modificare detalii cont</li>
-<li>Vizualizare istoric comenzi</li>
+<li>Vizualizare istoric comenzi (onorate si neonorate)</li>
 <li>Log in/Log out</li>
-<li>Abonare newsletter</li>
 </ul>
 Admin<br>
 <ul>
 <li>Log in/Log out</li>
 <li>Modificare baze de date:</li>
 <ul>
-<li>adaugare domeniu/produs</li>
-<li>stergere domeniu/produs</li>
-<li>modificare domeniu/produs</li>
-<li>validare/stergere recenzie</li>
-<li>adaugare/stergere/vizualizare users</li>
+<li>adaugare/stergere/modificare domeniu</li>
+<li>adaugare/stergere/modificare user</li>
+<li>adaugare/stergere/modificare editura</li>
+<li>adaugare/stergere/modificare autor</li>
+<li>adaugare/stergere/modificare carte</li>
+<li>onorare/anulare comanda</li>
 </ul>
-<li>Modificare detalii cont</li>
+<ul>
+<li>Vizualizare istoric comenzi (onorate si neonorate)</li>
 </ul>
 </p>
-</div>'
-?>
+<ul>
+<li>Vizualizare carti stoc epuizat</li>
+</ul>
+</div>
