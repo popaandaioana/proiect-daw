@@ -3,6 +3,7 @@
 <head>
 <title>Libraria online</title>
 </head>
+<body>
 <center><h3><span style="color:blue">Librarie online</span></h3></center>
 <div>
 <p>
@@ -57,3 +58,5 @@ Admin<br>
 <li>Vizualizare carti stoc epuizat</li>
 </ul>
 </div>
+</body>
+</html>
